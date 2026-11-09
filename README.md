@@ -3,7 +3,7 @@
 A local-first manufacturing ERP/MES/QMS development prototype. **Not production-ready, certified, or validated for AS9100D or ISO 13485.** No real customer, personnel, powder, build, or regulated manufacturing data is bundled. Do not enter real data.
 
 ## Windows: one-click start
-Extract the ZIP, then double-click **START_WINDOWS.bat**. The launcher creates a local virtual environment, installs dependencies, runs tests and the release guard, and opens the GUI at http://127.0.0.1:8000/ . Internet is required for the initial dependency installation.
+Download the files, then double-click **START_WINDOWS.bat**. The launcher creates a local virtual environment, installs dependencies, runs tests and the release guard, and opens the GUI at http://127.0.0.1:8000/ . Internet is required for the initial dependency installation.
 
 ## Features
 - Familiar module-based GUI with Light, Dark, and Slate themes
